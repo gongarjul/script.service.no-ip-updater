@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Addon Name -->
+    <string id="30000">NO-IP Updater</string>
+    <!-- some other strings -->
+    <!-- Settings -->
+    <string id="30001">no-ip Username</string>
+    <string id="30002">Password</string>
+    <string id="30003">Hostname</string>
+</strings>

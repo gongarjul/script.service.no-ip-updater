@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+id="script.service.no-ip-updater"
+version="0.2"
+name="no-ip updater"
+provider-name="Julian Gonzalez Garcia">
+    <requires>
+    </requires>
+    <extension point="xbmc.service" library="no-ip-updater.py" start="startup">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Updates host ip on no-ip</summary>
+        <summary lang="es">Actualiza la ip del host de no-ip</summary>
+        <description lang="en">Uses the API of no-ip to update one of your hosts configured on no-ip</description>
+        <description lang="es">Utiliza la API de no-ip para actualizar uno de los hosts configurados en no-ip</description>
+	<disclaimer/>
+        <platform/>
+	<language/>
+    </extension>
+</addon>
